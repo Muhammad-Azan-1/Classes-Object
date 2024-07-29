@@ -1,0 +1,19 @@
+div{
+
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    background-color: beige;
+    margin: 2px;
+
+}
+
+.class1{
+    background-color: black;
+    color: white;
+}
+
+.class2{
+    background-color: white;
+    color: black;
+}
